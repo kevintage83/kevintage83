@@ -38,10 +38,13 @@
    <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=2881FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Jasmine%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Karma%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/VS Code%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Splunk%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
