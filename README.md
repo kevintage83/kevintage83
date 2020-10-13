@@ -14,7 +14,11 @@
 
 <a href="https://www.linkedin.com/in/kevintage83/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:kevin@kevinwburns.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kevintage83/" target="blank"><img alt="kevintage83" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"></a>
 <hr>
+
+
 
 <h2>Tools & Technologies</h2>
 <p>
