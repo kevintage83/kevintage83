@@ -61,7 +61,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 </p> 
 
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=kevintage83&show_icons=true" alt="kevintage83" /> </p>
 <hr>
 
 ### About 📌
@@ -73,10 +72,8 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 
 <hr>
 
-### O.S. 💻
 
-### ✔  MacOS X
-### ✔  Windows 10
+<p align=center> <img align=center src="https://github-readme-stats.vercel.app/api?username=kevintage83&show_icons=true" alt="kevintage83" /> </p>
 
 <hr>
 
