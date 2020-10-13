@@ -19,7 +19,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 <hr>
 
 
-
 <h2>Tools & Technologies</h2>
 <p>
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
@@ -62,7 +61,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 </p> 
 
 
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kevintage83&show_icons=true" alt="kevintage83" /> </p>
 <hr>
 
 ### About 📌
@@ -85,3 +84,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 Turning challenges into growth opportunities...
 ```
 ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=kevintage83.kevintage83" alt="Visitors">                     
+</p>
