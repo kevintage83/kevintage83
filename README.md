@@ -73,7 +73,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 <hr>
 
 
-<p> <img align=center src="https://github-readme-stats.vercel.app/api?username=kevintage83&show_icons=true" alt="kevintage83" /> </p>
+<p><img align=center src="https://github-readme-stats.vercel.app/api?username=kevintage83&show_icons=true" alt="kevintage83" /> </p>
 
 <hr>
 
