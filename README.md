@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, TypeScript, Angular, Node.js, MongoDB, Mysql, Python, HTML, CSS/SCSS/SASS, Splunk
-### ✔  **Learning :** Pen testing with Python and web security with HelmutJS
+### ✔  **Learning :** CCNA Certification, Pen testing with Python and web security with HelmutJS
 ### ✔  **Hobbies :**  Reading 📕, Tennis 🎾 , Skiing ⛷, Surfing 🏄‍, Rock Climbing 🧗‍, Photography 📸
 
 <hr>
